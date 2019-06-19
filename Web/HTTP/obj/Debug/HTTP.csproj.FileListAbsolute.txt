@@ -1,0 +1,7 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Web\HTTP\bin\Debug\HTTP.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Web\HTTP\bin\Debug\HTTP.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Web\HTTP\bin\Debug\HTTP.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Web\HTTP\obj\Debug\HTTP.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Web\HTTP\obj\Debug\HTTP.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Web\HTTP\obj\Debug\HTTP.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Web\HTTP\bin\Debug\index.html

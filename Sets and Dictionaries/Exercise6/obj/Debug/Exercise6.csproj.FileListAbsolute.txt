@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise6\bin\Debug\Exercise6.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise6\bin\Debug\Exercise6.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise6\bin\Debug\Exercise6.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise6\obj\Debug\Exercise6.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise6\obj\Debug\Exercise6.pdb

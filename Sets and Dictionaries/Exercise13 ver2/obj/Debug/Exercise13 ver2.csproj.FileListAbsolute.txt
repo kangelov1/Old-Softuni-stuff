@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise13 ver2\bin\Debug\Exercise13 ver2.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise13 ver2\bin\Debug\Exercise13 ver2.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise13 ver2\bin\Debug\Exercise13 ver2.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise13 ver2\obj\Debug\Exercise13 ver2.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise13 ver2\obj\Debug\Exercise13 ver2.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise13 ver2\obj\Debug\Exercise13 ver2.pdb

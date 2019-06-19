@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Manual string processing\Exercise12\bin\Debug\Exercise12.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Manual string processing\Exercise12\bin\Debug\Exercise12.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Manual string processing\Exercise12\bin\Debug\Exercise12.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Manual string processing\Exercise12\obj\Debug\Exercise12.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Manual string processing\Exercise12\obj\Debug\Exercise12.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Manual string processing\Exercise12\obj\Debug\Exercise12.pdb

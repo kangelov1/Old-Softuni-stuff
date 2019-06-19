@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Manual string processing\Exercise10\bin\Debug\Exercise10.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Manual string processing\Exercise10\bin\Debug\Exercise10.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Manual string processing\Exercise10\bin\Debug\Exercise10.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Manual string processing\Exercise10\obj\Debug\Exercise10.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Manual string processing\Exercise10\obj\Debug\Exercise10.pdb

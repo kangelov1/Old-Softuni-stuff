@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exerice3\bin\Debug\Exerice3.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exerice3\bin\Debug\Exerice3.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exerice3\bin\Debug\Exerice3.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exerice3\obj\Debug\Exerice3.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exerice3\obj\Debug\Exerice3.pdb

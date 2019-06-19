@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Matrices\bin\Debug\Matrices.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Matrices\bin\Debug\Matrices.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Matrices\obj\Debug\Matrices.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Matrices\obj\Debug\Matrices.pdb

@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise 6 Animals\bin\Debug\Exercise 6 Animals.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise 6 Animals\bin\Debug\Exercise 6 Animals.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise 6 Animals\bin\Debug\Exercise 6 Animals.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise 6 Animals\obj\Debug\Exercise 6 Animals.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise 6 Animals\obj\Debug\Exercise 6 Animals.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise 6 Animals\obj\Debug\Exercise 6 Animals.pdb

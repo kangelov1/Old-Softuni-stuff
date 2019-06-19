@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Defining classes\bin\Debug\Defining classes.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Defining classes\bin\Debug\Defining classes.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Defining classes\bin\Debug\Defining classes.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Defining classes\obj\Debug\Exercise 7.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Defining classes\obj\Debug\Defining classes.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Defining classes\obj\Debug\Defining classes.pdb

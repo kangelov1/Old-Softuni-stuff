@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Fibonacci stack\bin\Debug\Fibonacci stack.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Fibonacci stack\bin\Debug\Fibonacci stack.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Fibonacci stack\bin\Debug\Fibonacci stack.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Fibonacci stack\obj\Debug\Fibonacci stack.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Fibonacci stack\obj\Debug\Fibonacci stack.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Fibonacci stack\obj\Debug\Fibonacci stack.pdb

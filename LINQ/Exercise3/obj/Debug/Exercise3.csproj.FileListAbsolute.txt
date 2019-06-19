@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\LINQ\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\LINQ\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\LINQ\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\LINQ\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\LINQ\Exercise3\obj\Debug\Exercise3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Iterators and comparators\bin\Debug\Iterators and comparators.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Iterators and comparators\obj\Debug\Iterators and comparators.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Iterators and comparators\bin\Debug\Iterators and comparators.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Iterators and comparators\bin\Debug\Iterators and comparators.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Iterators and comparators\obj\Debug\Iterators and comparators.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Iterators and comparators\obj\Debug\Iterators and comparators.pdb

@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise3 Wild Farm\bin\Debug\Exercise3 Wild Farm.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise3 Wild Farm\obj\Debug\Exercise3 Wild Farm.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise3 Wild Farm\bin\Debug\Exercise3 Wild Farm.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise3 Wild Farm\bin\Debug\Exercise3 Wild Farm.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise3 Wild Farm\obj\Debug\Exercise3 Wild Farm.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise3 Wild Farm\obj\Debug\Exercise3 Wild Farm.pdb

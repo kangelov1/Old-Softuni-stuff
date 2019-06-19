@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Lab 2\obj\Debug\Lab 2.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Lab 2\obj\Debug\Lab 2.pdb

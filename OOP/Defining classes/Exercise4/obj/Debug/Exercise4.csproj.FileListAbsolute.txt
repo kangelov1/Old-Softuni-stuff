@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Exercise4\obj\Debug\Exercise4.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Defining classes\Exercise4\obj\Debug\Exercise4.pdb

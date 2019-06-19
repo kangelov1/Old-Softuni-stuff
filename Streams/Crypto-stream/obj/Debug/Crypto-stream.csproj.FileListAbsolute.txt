@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Streams\Crypto-stream\bin\Debug\Crypto-stream.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Streams\Crypto-stream\bin\Debug\Crypto-stream.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Streams\Crypto-stream\bin\Debug\Crypto-stream.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Streams\Crypto-stream\obj\Debug\Crypto-stream.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Streams\Crypto-stream\obj\Debug\Crypto-stream.pdb

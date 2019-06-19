@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Sets and Dictionaries\Exercise2\obj\Debug\Exercise2.pdb

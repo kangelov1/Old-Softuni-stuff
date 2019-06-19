@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise 3 Interface\bin\Debug\Exercise 3 Interface.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise 3 Interface\bin\Debug\Exercise 3 Interface.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise 3 Interface\bin\Debug\Exercise 3 Interface.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise 3 Interface\obj\Debug\Exercise 3 Interface.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP Advanced 2017\Interfaces and abstraction\ConsoleApplication1\Exercise 3 Interface\obj\Debug\Exercise 3 Interface.pdb

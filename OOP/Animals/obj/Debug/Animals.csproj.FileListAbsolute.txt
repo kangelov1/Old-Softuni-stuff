@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Animals\bin\Debug\Animals.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Animals\bin\Debug\Animals.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Animals\bin\Debug\Animals.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Animals\obj\Debug\Animals.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Animals\obj\Debug\Animals.pdb

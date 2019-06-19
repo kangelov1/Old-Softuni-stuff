@@ -1,0 +1,35 @@
+;metsyS gnisu
+;OI.metsyS gnisu
+
+ecitcarP ecapseman
+{
+margorP ssalc    
+{    
+)sgra ][gnirts(niaM diov citats        
+{        
+))"txt.tseT"(redaeRmaertS wen = redaer redaeRmaertS(gnisu//            
+{//            
+;)(dnEoTdaeR.redaer = txet gnirts    //            
+;)txet(eniLetirW.elosnoC    //            
+}//            
+
+))"sc.margorp/../.."(redaeRmaertS wen = redaer redaeRmaertS(gnisu            
+{            
+))"txt.desrever"(retirWmaertS wen = retirw retirWmaertS(gnisu                
+{                
+;)(eniLdaeR.redaer = eniLtnerruc gnirts                    
+
+)llun =! eniLtnerruc(elihw                    
+{                    
+)--i ;0 => i ;1 - htgneL.eniLtnerruc = i tni(rof                        
+{                        
+;)]i[eniLtnerruc(etirW.retirw                            
+}                        
+;)(eniLetirW.retirw                        
+;)(eniLdaeR.redaer = eniLtnerruc                        
+}                    
+}                
+}            
+}        
+}    
+}

@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\AnimalFarm\Exercise 2\bin\Debug\Exercise 2.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\AnimalFarm\Exercise 2\obj\Debug\Exercise 2.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\AnimalFarm\Exercise 2\bin\Debug\Exercise 2.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\AnimalFarm\Exercise 2\bin\Debug\Exercise 2.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\AnimalFarm\Exercise 2\obj\Debug\Exercise 2.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\AnimalFarm\Exercise 2\obj\Debug\Exercise 2.pdb

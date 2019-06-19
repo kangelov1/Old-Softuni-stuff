@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Exercise\bin\Debug\Exercise.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Exercise\obj\Debug\Exercise.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Exercise\obj\Debug\Exercise.pdb

@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Streams\Buffered writer\bin\Debug\Buffered writer.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Streams\Buffered writer\bin\Debug\Buffered writer.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Streams\Buffered writer\bin\Debug\Buffered writer.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Streams\Buffered writer\obj\Debug\Buffered writer.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Streams\Buffered writer\obj\Debug\Buffered writer.pdb

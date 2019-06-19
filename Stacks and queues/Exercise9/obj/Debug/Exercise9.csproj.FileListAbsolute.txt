@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Stacks and queues\Exercise9\bin\Debug\Exercise9.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Stacks and queues\Exercise9\bin\Debug\Exercise9.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Stacks and queues\Exercise9\bin\Debug\Exercise9.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Stacks and queues\Exercise9\obj\Debug\Exercise9.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Stacks and queues\Exercise9\obj\Debug\Exercise9.pdb

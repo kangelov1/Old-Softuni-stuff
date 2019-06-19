@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Lecture1\bin\Debug\Lecture1.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Lecture1\bin\Debug\Lecture1.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Lecture1\bin\Debug\Lecture1.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Lecture1\obj\Debug\Lecture1.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Lecture1\obj\Debug\Lecture1.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\OOP\Lecture1\obj\Debug\Lecture1.pdb

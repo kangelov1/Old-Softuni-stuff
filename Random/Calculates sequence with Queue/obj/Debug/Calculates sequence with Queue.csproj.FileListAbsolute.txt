@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Calculates sequence with Queue\bin\Debug\Calculates sequence with Queue.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Calculates sequence with Queue\bin\Debug\Calculates sequence with Queue.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Calculates sequence with Queue\bin\Debug\Calculates sequence with Queue.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Calculates sequence with Queue\obj\Debug\Calculates sequence with Queue.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Calculates sequence with Queue\obj\Debug\Calculates sequence with Queue.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\SoftUni\Calculates sequence with Queue\obj\Debug\Calculates sequence with Queue.pdb
